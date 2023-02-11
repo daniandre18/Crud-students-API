@@ -1,7 +1,7 @@
 
-# 📌 estudiantes CRUD
+# 📌 API Estudiantes CRUD
 
-Esta aplicación fue creada por [Danilo Andres Pineda Moreno] como prueba tecnica para novatec su estructura inicial fue creada con el comando `ng new`.
+Esta aplicación fue creada por [Danilo Andres Pineda Moreno] como prueba tecnica para novatec.
 
 ## Configuracion de base de datos y Ejecucion de  la Aplicación.
 
